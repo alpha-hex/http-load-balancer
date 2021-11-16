@@ -1,0 +1,8 @@
+{
+  "server_port": 3030,
+  "backends": "http://localhost:8110",
+  "email_server": "192.168.11.21",
+  "alert_email_addresses": "richardbe@marcusevansuk.com;richard.bennett@marcusevans.com",
+  "load_balancer_name": "morpheus_lb",
+  "sending_domain": "marcusevansuk.com"
+}
